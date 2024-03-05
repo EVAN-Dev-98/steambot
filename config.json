@@ -1,7 +1,9 @@
 {
 	"username":"your steam username",
 	"password":"your steam password",
+	"email":"your email",
 	"sharedSecret":"your steam shared secret code for generate code",
 	"identitySecret":"your steam identity secret code for confirm trades",
 	"steamID64":"your steam id64"
+
 }
