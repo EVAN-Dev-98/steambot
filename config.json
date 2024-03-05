@@ -5,5 +5,4 @@
 	"sharedSecret":"your steam shared secret code for generate code",
 	"identitySecret":"your steam identity secret code for confirm trades",
 	"steamID64":"your steam id64"
-
 }
